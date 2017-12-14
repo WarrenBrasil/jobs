@@ -1,12 +1,12 @@
 # Mural de oportunidades no Warren Brasil.
 
+https://oiwarren.com/vagas/
+
 Junte-se a pessoas incríveis e ajude a criar uma nova geração de investidores.
 
 Neste espaço serão divulgadas as oportunidades abertas no `Warren Brasil`.
 
 As vagas estão listadas como `issues` e podem ser acessadas através deste link: https://github.com/warrenbrasil/jobs/issues
-
-https://oiwarren.com/vagas/
 
 # Quem é o Warren?
 
