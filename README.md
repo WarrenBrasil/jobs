@@ -6,7 +6,10 @@ Junte-se a pessoas incríveis e ajude a criar uma nova geração de investidores
 
 Neste espaço serão divulgadas as oportunidades abertas no `Warren Brasil`.
 
-As vagas estão listadas como `issues` e podem ser acessadas através deste link: https://github.com/warrenbrasil/jobs/issues
+As vagas estão listadas como `issues` e podem ser acessadas através deste link:
+
+https://github.com/warrenbrasil/jobs/issues
+
 
 # Quem é o Warren?
 
@@ -22,6 +25,7 @@ https://oiwarren.com/quem-somos/
 Você irá trabalhar com uma equipe multidisciplinar (designers, desenvolvedores, marketing, etc) que desenvolve toda experiência inovadora de investir com o Warren. 
 
 Em um ambiente de startup legal com pessoas comprometidas, horário flexível, bastante café, práticas ágeis (kanban, priorização etc) e uma baita oportunidade de crescimento profissional e aprendizado.
+
 
 # Dúvidas/Sugestões ?
 
