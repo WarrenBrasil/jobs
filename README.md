@@ -19,5 +19,3 @@ https://oiwarren.com/quem-somos/
 # Dúvidas/Sugestões ?
 
 Submeter uma `issue` ou nos contatar pelo e-mail `staff@oiwarren.com`
-
-https://oiwarren.com/quem-somos/
