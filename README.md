@@ -1,7 +1,5 @@
 # Mural de oportunidades no Warren Brasil.
 
-https://oiwarren.com/vagas/
-
 Junte-se a pessoas incríveis e ajude a criar uma nova geração de investidores.
 
 Neste espaço serão divulgadas as oportunidades abertas no `Warren Brasil`.
@@ -30,3 +28,5 @@ Em um ambiente de startup legal com pessoas comprometidas, horário flexível, b
 # Dúvidas/Sugestões ?
 
 Submeter uma `issue` ou nos contatar pelo e-mail `staff@oiwarren.com`
+
+Outras informações: https://oiwarren.com/vagas/
